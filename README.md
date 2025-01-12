@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=x7key&theme=blue-green
+
+https://github-readme-stats.vercel.app/api?username=x7key&theme=blue-green
+
+
+
 <!--
 **x7key/x7key** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
