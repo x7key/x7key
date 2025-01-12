@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-## Статистика GitHub
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x7key&theme=blue-green)
-
-## Самые используемые языки
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x7key&theme=blue-green)
 
