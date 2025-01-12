@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi 👋!;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+👋!;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x7key&theme=blue-green)
